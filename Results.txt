@@ -1,0 +1,31 @@
+HR ATTRITION PREDICTION RESULTS
+
+Model 1
+Training Accuracy  : 80.41%
+Training Precision : 44.20%
+
+Testing Accuracy   : 81.76%
+Testing Precision  : 45.95%
+
+
+Model 2 (Best Model)
+Training Accuracy  : 87.33%
+Training Precision : 58.40%
+
+Testing Accuracy   : 85.81%
+Testing Precision  : 87.50%
+
+
+Model 3
+Training Accuracy  : 79.05%
+Training Precision : 41.99%
+
+Testing Accuracy   : 81.08%
+Testing Precision  : 44.59%
+
+
+Best Model Summary
+
+Model           : Model 2
+Testing Accuracy: 85.81%
+Testing Precision: 87.50%
