@@ -1,0 +1,21 @@
+BUSINESS INSIGHTS
+
+• Developed a machine learning solution to predict employee attrition.
+
+• Compared multiple classification models to identify the best-performing approach.
+
+• Achieved a maximum testing accuracy of 85.81%.
+
+• The model can assist HR teams in identifying employees at risk of leaving.
+
+• Predictive analytics can support employee retention and workforce planning decisions.
+
+RECOMMENDATIONS
+
+• Implement proactive retention strategies for at-risk employees.
+
+• Improve employee engagement and career development programs.
+
+• Regularly monitor workforce trends using predictive analytics.
+
+• Use data-driven decision-making to reduce employee turnover.
